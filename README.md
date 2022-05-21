@@ -8,7 +8,7 @@ License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 Follow us gutenberg block with some patterns
 
-![Follow Us Block Demo](http://asrbd.com/resources/follow-us-block.png "Title")
+![Follow Us Block Demo](http://asrbd.com/resources/follow-us-block-v1.0.0.png "Title")
 
 == Description ==
 
